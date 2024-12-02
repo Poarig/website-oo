@@ -1,0 +1,33 @@
+div.row {
+    max-width: 100%;
+    margin: 0px;
+}
+
+nav  div{
+    position: relative;
+    box-sizing: border-box;
+    background-color: #55679F;
+    border-bottom: solid black 1px;
+    min-height: 40px;
+    align-content: center;
+    text-align: left;
+    
+}
+
+nav > div {
+    padding-left: 10px;
+}
+
+nav > div:last-child{
+    padding-left: 0px;
+    border-bottom: none;
+}
+
+nav img {
+    width: 25px;
+}
+
+.logo img{
+    width: 98px;
+    height: 100px;
+}
