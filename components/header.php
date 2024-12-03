@@ -18,7 +18,7 @@
             </div>
             <div>
                 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNOCA5aDhtLTggNGg2bTQtOWEzIDMgMCAwIDEgMyAzdjhhMyAzIDAgMCAxLTMgM2gtNWwtNSAzdi0zSDZhMyAzIDAgMCAxLTMtM1Y3YTMgMyAwIDAgMSAzLTN6Ii8+PC9zdmc+">
-                <a href="3">Обратная связь</a>
+                <a href="feedback.php">Обратная связь</a>
             </div>
             
 

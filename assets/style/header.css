@@ -38,3 +38,23 @@ nav img {
 title {
     text-align: left;
 }
+
+header input[type=submit]{
+    border: none;
+}
+
+header input[type=text]{
+    flex-grow:1;
+    border: none;
+}
+
+header form div:first-child{
+    flex-grow:1;
+    border-right: solid black 1px;
+
+}
+
+header form, header form div{
+    display: flex;
+    align-items: stretch;
+}
