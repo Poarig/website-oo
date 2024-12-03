@@ -35,14 +35,20 @@ header, footer{
     width: 100%;
 }
 
-nav a:hover{
-    text-decoration: none;
-    color: white;
+nav  div{
+    position: relative;
+    box-sizing: border-box;
+    background-color: #D9D9D9;
+    border: 1px black solid;
+    min-height: 40px;
+    align-content: center;
+    text-align: center;
+    margin: 10px 0;
 }
 
-nav a{
+a, a:hover{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 nav a::before{
@@ -96,11 +102,6 @@ form {
 ul {
     list-style-type: none;
     padding: 0;
-}
-
-footer a, footer a:hover{
-    color: black;
-    text-decoration: none;
 }
 
 footer{

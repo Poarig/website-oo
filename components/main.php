@@ -1,4 +1,3 @@
-<div class='main'>
     <div class="slider d-xs-none d-sm-none d-md-block">
         <div id="carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carusel-indicators">
@@ -69,10 +68,15 @@
 
       <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A299d2fd509854d4b0311f8d31df3c78a765c44694744cd345b391b0680670f3b&amp;width=100%&amp;height=700&amp;lang=ru_RU&amp;scroll=true"></script>
 
+
+      <script type="text/javascript">
+      VK.init({
+        apiId: ВАШ_API_ID,
+        onlyWidgets: true
+      });
+      </script>
       <div id="vk_groups"></div>
       <script type="text/javascript">
         VK.Widgets.Group("vk_groups", {mode: 4, no_cover: 1, width: "auto", height: 1000, color1: "FFFFFF", color2: "000000", color3: "5181B8"}, 80054138);
       </script>
     </div>
-    
-</div>

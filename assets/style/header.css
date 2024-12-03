@@ -3,24 +3,23 @@ div.row {
     margin: 0px;
 }
 
-nav  div{
+header nav  div{
+    margin: 0px;
+    border: none;
+    border-bottom: 1px solid black;
     position: relative;
     box-sizing: border-box;
     background-color: #55679F;
-    border-bottom: solid black 1px;
-    min-height: 40px;
-    align-content: center;
     text-align: left;
     
 }
 
-nav > div {
+header nav > div {
     padding-left: 10px;
 }
 
-nav > div:last-child{
-    padding-left: 0px;
-    border-bottom: none;
+header nav a, header nav a:hover{
+    color: white;
 }
 
 nav img {
@@ -30,4 +29,12 @@ nav img {
 .logo img{
     width: 98px;
     height: 100px;
+}
+
+.border-b-n {
+    border-bottom: none;
+}
+
+title {
+    text-align: left;
 }
