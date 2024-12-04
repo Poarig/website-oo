@@ -8,9 +8,9 @@
         </div>
         <div class="d-xs-none d-sm-none d-md-none d-lg-block col-lg-2 col-xl-4 col-xxl-4"></div>
         <nav class="col-sm-12 col-md-4 col-lg-4 col-xl-3 col-xxl-3 p-0">
-            <div>
+            <div class="bvi-hide">
                 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTAgMTJhMiAyIDAgMSAwIDQgMGEyIDIgMCAwIDAtNCAwIi8+PHBhdGggZD0iTTIxIDEycS0zLjYgNi05IDZ0LTktNnEzLjYtNiA5LTZ0OSA2Ii8+PC9nPjwvc3ZnPg==">
-                <a href="1">Версия для слабовидящих</a>
+                <a class="bvi-open" href="#">Версия для слабовидящих</a>
             </div>
             <div>
                 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNCA2aDE2TTQgMTJoMTZNNCAxOGgxNiIvPjwvc3ZnPg==">

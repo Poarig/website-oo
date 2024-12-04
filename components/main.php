@@ -1,4 +1,4 @@
-    <div class="slider d-xs-none d-sm-none d-md-block">
+    <div class="slider d-xs-none d-sm-none d-md-block bvi-hide">
         <div id="carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carusel-indicators">
               <button type="button" data-bs-target="#carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
