@@ -23,12 +23,6 @@ header, .main{
     border-bottom: solid black 1px;
 }
 
-.main {
-    flex-grow: 1;
-}
-
-
-
 header, footer{
     background-color: #D9D9D9;
     text-align: center;
@@ -43,7 +37,7 @@ nav  div{
     min-height: 40px;
     align-content: center;
     text-align: center;
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 a, a:hover{
@@ -104,15 +98,6 @@ div.blue-button{
 
 .blue-button a, .blue-button a:hover{
     color: white;
-}
-
-.main form {
-    background-color: #D9D9D9;
-    border: 1px solid black;
-}
-
-.main form > div {
-    margin: 20px;
 }
 
 input, textarea{

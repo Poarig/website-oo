@@ -3,15 +3,25 @@ div.row {
     margin: 0px;
 }
 
-header nav  div{
+header nav div{
     margin: 0px;
     border: none;
-    border-bottom: 1px solid black;
     position: relative;
     box-sizing: border-box;
     background-color: #55679F;
     text-align: left;
     
+}
+
+header nav > div{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+@media (width < 768px){
+    header nav > div{
+        border-left: none;
+    }
 }
 
 header nav > div {
@@ -33,10 +43,6 @@ nav img {
 
 .border-b-n {
     border-bottom: none;
-}
-
-title {
-    text-align: left;
 }
 
 header input[type=submit]{
