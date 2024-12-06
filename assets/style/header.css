@@ -64,3 +64,15 @@ header form, header form div{
     display: flex;
     align-items: stretch;
 }
+
+header.admin-panel nav{
+    display: flex;
+}
+
+header.admin-panel nav div {
+    flex-grow: 1;
+    text-align: center;
+    border-bottom: none;
+    border-top: solid 1px black;
+    padding: 0px 10px;
+}

@@ -60,7 +60,7 @@ input[type=submit]{
     background-color: #55679F;
     color: white;
     padding: 5px 15px;
-    min-width: 77px;
+    min-width: 80px;
 }
 
 form {
@@ -72,17 +72,13 @@ form {
     font-size: 16px;
 }
 
-.footer-block {
-    max-width: 400px;
+.text-20 {
+    font-size: 20px;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
-}
-
-footer{
-    padding-top: 20px;
 }
 
 div.blue-button{
@@ -102,6 +98,7 @@ div.blue-button{
 
 input, textarea{
     width: 100%;
+    padding: 0px 10px
 }
 
 textarea {

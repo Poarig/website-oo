@@ -4,7 +4,7 @@
             <a href="index.php"><img src="assets/img/logo.png"/></a>
         </div>
         <div class="title col-sm-12 col-md-6 col-lg-5 col-xl-4 col-xxl-4 text-xs-center text-sm-center text-md-start">
-            <p>Ненецкий аграрно-экономический техникум<br />имени В. Г. Волкова<p>
+            <h1 class="text-20">Ненецкий аграрно-экономический техникум<br />имени В. Г. Волкова</h1>
         </div>
         <div class="d-xs-none d-sm-none d-md-none d-lg-block col-lg-2 col-xl-4 col-xxl-4"></div>
         <nav class="col-sm-12 col-md-4 col-lg-4 col-xl-3 col-xxl-3 p-0">
