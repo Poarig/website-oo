@@ -1,4 +1,5 @@
 <?php
 session_start();
-header("Location: ../adminPanel.php")
+$_SESSION["auth"] = true;
+header("Location: ../pages/adminPanel.php")
 ?>

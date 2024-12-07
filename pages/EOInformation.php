@@ -1,6 +1,6 @@
 <?php
-include("components/head.php");
-include("components/header.php");
+include("../components/head.php");
+include("../components/header.php");
 ?>
 
 <nav class="EOInformation main-content">

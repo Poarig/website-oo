@@ -1,7 +1,7 @@
 <header class="container-fluid p-0">
     <div class="row p-0 align-items-center">
         <div class="logo p-0 col-sm-12 col-md-2 col-lg-1 col-xl-1 col-xxl-1">
-            <a href="index.php"><img src="assets/img/logo.png"/></a>
+            <a href="index.php"><img src="../assets/img/logo.png"/></a>
         </div>
         <div class="title col-sm-12 col-md-6 col-lg-5 col-xl-4 col-xxl-4 text-xs-center text-sm-center text-md-start">
             <h1 class="text-20">Ненецкий аграрно-экономический техникум<br />имени В. Г. Волкова</h1>

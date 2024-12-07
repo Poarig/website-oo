@@ -21,7 +21,7 @@
         <a href="1">вопросы пользователей</a>
     </div>
     <div>
-        <a href="vendors/logout.php">выйти</a>
+        <a href="../vendors/logout.php">выйти</a>
     </div>
 </nav>
 </header>

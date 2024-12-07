@@ -43,7 +43,7 @@
     <div>© 2024 Все права защищены. Защита персональных данных</div>
 </footer>
 
-<script src="assets/js/button-visually-impaired-javascript-master/dist/js/bvi.min.js"></script>
+<script src="../assets/js/button-visually-impaired-javascript-master/dist/js/bvi.min.js"></script>
 <script>new isvek.Bvi();</script>
 </body>
 </html>

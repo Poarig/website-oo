@@ -75,15 +75,15 @@
     margin: 20px;
 }
 
-.adminPanel form{
+.admin-panel form{
     max-width: 400px;
     text-align: center;
 }
 
-.adminPanel form input[type=submit]{
+.admin-panel form input[type=submit]{
     max-width: 150px;
 }
 
-.main.adminPanel {
+div.main.admin-panel {
     border-bottom: none;
 }

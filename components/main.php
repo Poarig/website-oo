@@ -13,37 +13,37 @@
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                  <img src="assets/img/slider/поварское.jpg" class="d-block" alt="43.02.15 Поварское и кондитерское дело">
+                  <img src="../assets/img/slider/поварское.jpg" class="d-block" alt="43.02.15 Поварское и кондитерское дело">
                   <div class="slide-text"><h1>43.02.15 Поварское и кондитерское дело</h1></div>
                 </div>
 
                 <div class="carousel-item">
-                  <img src="assets/img/slider/экономика.jpg" class="d-block" alt="38.02.01 Экономика и бухгалтерский учет (по отраслям)">
+                  <img src="../assets/img/slider/экономика.jpg" class="d-block" alt="38.02.01 Экономика и бухгалтерский учет (по отраслям)">
                   <div class="slide-text"><h1>38.02.01 Экономика и бухгалтерский учет (по отраслям)</h1></div>
                 </div>
 
                 <div class="carousel-item">
-                  <img src="assets/img/slider/ветеринария.jpg" class="d-block" alt="36.02.01 Ветеринария">
+                  <img src="../assets/img/slider/ветеринария.jpg" class="d-block" alt="36.02.01 Ветеринария">
                   <div class="slide-text"><h1>36.02.01 Ветеринария</h1></div>
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/img/slider/право.jpg" class="d-block" alt="40.02.01 Право и организация социального обеспечения">
+                  <img src="../assets/img/slider/право.jpg" class="d-block" alt="40.02.01 Право и организация социального обеспечения">
                   <div class="slide-text"><h1>40.02.01 Право и организация социального обеспечения</h1></div>
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/img/slider/юриспруденция.jpg" class="d-block" alt="40.02.04 Юриспруденция">
+                  <img src="../assets/img/slider/юриспруденция.jpg" class="d-block" alt="40.02.04 Юриспруденция">
                   <div class="slide-text"><h1>40.02.04 Юриспруденция</h1></div>
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/img/slider/программирование.jpg" class="d-block" alt="09.02.07 Информационные системы и программирование">
+                  <img src="../assets/img/slider/программирование.jpg" class="d-block" alt="09.02.07 Информационные системы и программирование">
                   <div class="slide-text"><h1>09.02.07 Информационные системы и программирование</h1></div>
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/img/slider/защита.jpg" class="d-block" alt="20.02.02 Защита в чрезвычайных ситуациях">
+                  <img src="../assets/img/slider/защита.jpg" class="d-block" alt="20.02.02 Защита в чрезвычайных ситуациях">
                   <div class="slide-text"><h1>20.02.02 Защита в чрезвычайных ситуациях</h1></div>
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/img/slider/экология.jpg" class="d-block" alt="20.02.01 Экологическая безопасность природных комплексов">
+                  <img src="../assets/img/slider/экология.jpg" class="d-block" alt="20.02.01 Экологическая безопасность природных комплексов">
                   <div class="slide-text"><h1>20.02.01 Экологическая безопасность природных комплексов</h1></div>
                 </div>
 
@@ -54,7 +54,7 @@
       <div class="welcome text-16 conteiner">
         <diw class="row">
           <div class="director text-center col-sm-12 col-md-12 col-lg-3 col-xl-3 col-xxl-3">
-			  	  <img src="assets/img/director-2.png" alt="фото директора">
+			  	  <img src="../assets/img/director-2.png" alt="фото директора">
 			  	  <h5 class="text-16">Оксана Вячеславовна Данилова</h5>
 			  	  <div>Директор</div>
 			    </div>
@@ -66,7 +66,7 @@
         
       </div>
 
-      <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A299d2fd509854d4b0311f8d31df3c78a765c44694744cd345b391b0680670f3b&amp;width=100%&amp;height=700&amp;lang=ru_RU&amp;scroll=true"></script>
+      <?php include("map.php"); ?>
 
 
       <script type="text/javascript">
