@@ -8,7 +8,7 @@ include("../components/adminPanel/adminHeader.php");
 include("../components/adminPanel/adminNav.php");
 ?>
 <div class="main admin-panel">
-    <p class="text-center fs-1">
+    <p class="text-center fs-1 main-content">
         Добро пожаловать в панель администратора сайта Ненецкого аграрно-экономического техникума имени В. Г. Волкова!
     </p>
 </div>

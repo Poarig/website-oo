@@ -1,7 +1,15 @@
 <nav>
-    <div>
-        <a href="1">работники</a>
+    <div class="dropdown">
+        <a role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" href="#">работники</a>
+
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+            <li><a class="dropdown-item" href="#">преподаватели</a></li>
+            <li><a class="dropdown-item" href="#">пользователи</a></li>
+            <li><a class="dropdown-item" href="#">руководители</a></li>
+            <li><a class="dropdown-item" href="#">преподаватели</a></li>
+        </ul>
     </div>
+    
     <div>
         <a href="1">специальности</a>
     </div>

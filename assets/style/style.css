@@ -18,6 +18,12 @@ body{
     text-align: center;
 }
 
+.logo img:hover {
+    width: 102px;
+    height: 102px;
+    margin: -1 -1 0 0;
+}
+
 header, .main{
     box-sizing: border-box;
     border-bottom: solid black 1px;
@@ -42,7 +48,14 @@ nav  div{
 
 a, a:hover{
     text-decoration: none;
+}
+
+.black-a a{
     color: black;
+}
+
+.black-a a:hover{
+    color: white;
 }
 
 nav a::before{
@@ -61,6 +74,10 @@ input[type=submit]{
     color: white;
     padding: 5px 15px;
     min-width: 80px;
+}
+
+input:hover[type=submit]{
+    color: black;
 }
 
 form {
@@ -92,8 +109,12 @@ div.blue-button{
     
 }
 
-.blue-button a, .blue-button a:hover{
+.blue-button a{
     color: white;
+}
+
+.blue-button a:hover{
+    color: black;
 }
 
 input, textarea{

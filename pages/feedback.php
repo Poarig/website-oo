@@ -17,5 +17,5 @@ include('../components/header.php');
 </form>
 
 <?php
-include('components/footer.php');
+include('../components/footer.php');
 ?>

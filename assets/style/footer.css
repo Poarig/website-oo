@@ -1,5 +1,6 @@
-.footer-block {
-    max-width: 400px;
+div.footer-block{
+    width: fit-content;
+    text-align: center;
 }
 
 footer{

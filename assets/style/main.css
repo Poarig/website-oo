@@ -87,3 +87,8 @@
 div.main.admin-panel {
     border-bottom: none;
 }
+
+
+.search-results li {
+    margin: 40px 0;
+}
