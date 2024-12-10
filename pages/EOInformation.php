@@ -4,7 +4,7 @@ include("../components/header.php");
 ?>
 
 <nav class="EOInformation main-content  black-a">
-    <div><a href="generated.php?page='basicInformation'">Основные сведения</a></div>
+    <div><a href="generated.php?page=Основные сведения">Основные сведения</a></div>
     <div><a href="generated.php?page='structure'">Структура и органы управления образовательной организации</a></div>
     <div><a href="generated.php?page='documents'">Документы</a></div>
     <div><a href="generated.php?page='education'">Образование</a></div>

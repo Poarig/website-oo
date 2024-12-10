@@ -139,3 +139,22 @@ textarea {
         margin-top: 20px;
     }
 }
+
+td, th {
+    border: solid black 1px;
+    padding: 5px 10px;
+}
+
+th {
+    background-color: #55679F;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px 0px;
+}
+
+h1:has(+p), h2:has(+p), h3:has(+p), h4:has(+p), h1:has(+table), h2:has(+table), h3:has(+table), h4:has(+table){
+    margin-top: 40px
+}
