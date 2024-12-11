@@ -1,32 +1,32 @@
 <nav>
     <div class="dropdown">
-        <a role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" href="#">работники</a>
+        <a href="#" calss='btn btn-secondary dropdown-toggle' role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">работники</a>
 
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-            <li><a class="dropdown-item" href="#">преподаватели</a></li>
-            <li><a class="dropdown-item" href="#">пользователи</a></li>
-            <li><a class="dropdown-item" href="#">руководители</a></li>
-            <li><a class="dropdown-item" href="#">преподаватели</a></li>
+        <ul class="dropdown-menu p-0" aria-labelledby="dropdownMenuLink">
+            <li><div><a href="adminGeneratedTable.php?table=Teachers">преподаватели</a></div></li>
+            <li><div><a href="adminGeneratedTable.php?table=Users">пользователи</a></div></li>
+            <li><div><a href="adminGeneratedTable.php?table=Managers">руководители</a></div></li>
+            <li><div><a href="adminGeneratedTable.php?table=Employees">все</a></div></li>
         </ul>
     </div>
     
     <div>
-        <a href="1">специальности</a>
+        <a href="adminGeneratedTable.php?table=Specialties">специальности</a>
     </div>
     <div>
-        <a href="1">предметы</a>
+        <a href="adminGeneratedTable.php?table=AcademicSubjects">предметы</a>
     </div>
     <div>
-        <a href="1">группы</a>
+        <a href="adminGeneratedTable.php?table=Groups">группы</a>
     </div>
     <div>
-        <a href="1">страницы</a>
+        <a href="adminGeneratedTable.php?table=Pages">страницы</a>
     </div>
     <div>
-        <a href="1">достижения</a>
+        <a href="adminGeneratedTable.php?table=Achievements">достижения</a>
     </div>
     <div>
-        <a href="1">вопросы пользователей</a>
+        <a href="adminGeneratedTable.php?table=VisitorQuestions">вопросы посетителей</a>
     </div>
     <div>
         <a href="../vendors/logout.php">выйти</a>

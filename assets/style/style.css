@@ -50,11 +50,11 @@ a, a:hover{
     text-decoration: none;
 }
 
-.black-a a{
+.black-a a, a.black-a{
     color: black;
 }
 
-.black-a a:hover{
+.black-a a:hover, a:hover.black-a{
     color: white;
 }
 
@@ -143,6 +143,17 @@ textarea {
 td, th {
     border: solid black 1px;
     padding: 5px 10px;
+    text-align: center;
+}
+
+td div {
+    max-height: 200px;
+    max-width: 500px;
+    overflow: auto;
+}
+
+td > div * {
+    margin-top: 0px !important;
 }
 
 th {
@@ -153,8 +164,31 @@ th {
 table {
     border-collapse: collapse;
     margin: 20px 0px;
+    caption-side: top;
+}
+
+.t-btn {
+    overflow: hidden;
+}
+
+.t-btn a {
+    display: block;
+    margin: -10em;
+    padding: 10em;
 }
 
 h1:has(+p), h2:has(+p), h3:has(+p), h4:has(+p), h1:has(+table), h2:has(+table), h3:has(+table), h4:has(+table){
     margin-top: 40px
+}
+
+ul.dropdown-menu{
+    border-radius: 0px;
+    transform: translate3d(-2px, 40px, 0px) !important;
+    border: none;
+}
+
+ul.dropdown-menu div{
+    border-top: none !important;
+    border-bottom: 1px solid black !important;
+    border-right: 1px solid black;
 }

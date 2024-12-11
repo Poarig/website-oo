@@ -41,7 +41,13 @@
     width: 80%;
     max-width: 1000px;
     margin: auto;
+    overflow: auto;
     
+}
+
+.m-w-n {
+    width: 100%;
+    max-width: none;
 }
 
 .welcome{
