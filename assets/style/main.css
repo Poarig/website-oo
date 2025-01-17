@@ -29,8 +29,12 @@
     position: absolute;
     width: 100%;
     text-align: center;
-    top: 40%;
+    top: 30%;
     z-index: 1;
+}
+
+.carousel-indicators {
+    margin-bottom: 0.5rem;
 }
 
 .main {
