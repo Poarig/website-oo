@@ -14,7 +14,7 @@
         <a href="adminGeneratedTable.php?table=Specialties">специальности</a>
     </div>
     <div>
-        <a href="adminGeneratedTable.php?table=AcademicSubjects">предметы</a>
+        <a href="adminGeneratedTable.php?table=Subjects">предметы</a>
     </div>
     <div>
         <a href="adminGeneratedTable.php?table=Groups">группы</a>
@@ -26,7 +26,7 @@
         <a href="adminGeneratedTable.php?table=Achievements">достижения</a>
     </div>
     <div>
-        <a href="adminGeneratedTable.php?table=VisitorQuestions">вопросы посетителей</a>
+        <a href="adminGeneratedTable.php?table=Questions">вопросы посетителей</a>
     </div>
     <div>
         <a href="../vendors/logout.php">выйти</a>
